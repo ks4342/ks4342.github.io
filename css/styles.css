@@ -28,6 +28,8 @@ h1 {color:#66BFBF;
 
 
 }
+.position{color:#66BFBF
+  ;font-weight: 500;font-family: Pacifico,cursive;font-size: 25px}
 
 
 .top-container {
@@ -51,6 +53,8 @@ h1 {color:#66BFBF;
 .comp{height: 300px;}
 .skil-row1{width:50%;  margin-left: auto;
   margin-right: auto;
+}
+.skill-row{width: 75%;margin-left: auto;margin-right: auto;}
 
 .btn {
   background: #11cdd4;
